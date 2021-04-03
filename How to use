@@ -6,5 +6,3 @@ Windows - pip install youtube_dl
 4. It will download the video audio and will open the save location
 
 Note it will sometime give errors but it will still work
-
-
